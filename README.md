@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou [Cleber] 👋</h1>
+<h1 align="center">Olá! Eu sou o Cleber 👋</h1>
 
 <p align="center">
 Sou um entusiasta de tecnologia com foco em <strong>automação de testes</strong> e desenvolvimento backend com <strong>Java</strong> e <strong>Kotlin</strong>.  
@@ -26,18 +26,17 @@ Apaixonado por escrever código limpo, eficiente e confiável.
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mpontoc&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpontoc&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
 
 ### 📫 Entre em contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleber-braz-it/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mpontoc@gmail.com)
 
 ---
 
 ⚡ *“Testar é confiar. Automatizar é evoluir.”*
-
